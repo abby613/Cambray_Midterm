@@ -1,1 +1,2 @@
 This line was changed by branch1.
+This line was changed by branch2.
